@@ -1,5 +1,5 @@
  Hi there 👋, I'm Kashish
-- 🔭 I’m currently working at QA Consultants, Toronto as an Associate SDET.
+- 🔭 I’m currently working at Alten Canada Inc, Toronto as a Consultant - SDET.
 
 - 🤝 I’m available for full-time SDET roles.
 
